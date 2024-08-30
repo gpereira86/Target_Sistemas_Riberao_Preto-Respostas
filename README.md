@@ -42,7 +42,7 @@ Descubra a lógica e complete o próximo elemento:
 <ol>c) 0, 1, 4, 9, 16, 25, 36, ____ -> 🚩Resposta: c) 49 - quadrado dos números naturais</ol>
 <ol>d) 4, 16, 36, 64, ____ -> 🚩Resposta:  100 - quadrado dos números pares</ol>
 <ol>e) 1, 1, 2, 3, 5, 8, ____ -> 🚩Resposta:  13 - Fibonacci</ol>
-<ol>f) 2,10, 12, 16, 17, 18, 19, ____ -> 🚩Resposta:  200 - todas os números começam pela letra 'D'</ol>
+<ol>f) 2,10, 12, 16, 17, 18, 19, ____ -> 🚩Resposta:  200 - todas os números começam com a letra 'D'</ol>
 </ul>
 
 ___
